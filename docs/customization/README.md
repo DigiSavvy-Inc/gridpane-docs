@@ -1,0 +1,27 @@
+# Customization
+
+## Documents
+
+- [Adding Custom Nginx Rules for Plugins - A General Guide | GridPane](./adding-custom-nginx-rules-for-plugins-a-general-guide-gridpane.md)
+- [Advanced Custom Fields (ACF) Options Page Cache Purge for WaaS/MU Subsites | GridPane](./advanced-custom-fields-acf-options-page-cache-purge-for-waas-mu-subsites-gridpane.md)
+- [Customer Success Office Hours & Webinar Replays | GridPane](./customer-success-office-hours-webinar-replays-gridpane.md)
+- [Exclude a Custom WP Ultimo Sign-Up URL from the Cache | GridPane](./exclude-a-custom-wp-ultimo-sign-up-url-from-the-cache-gridpane.md)
+- [How to add your own custom headers on OpenLiteSpeed (or reset existing headers) | GridPane](./how-to-add-your-own-custom-headers-on-openlitespeed-or-reset-existing-headers-gridpane.md)
+- [How to add your own custom Nginx headers (or reset existing headers) | GridPane](./how-to-add-your-own-custom-nginx-headers-or-reset-existing-headers-gridpane.md)
+- [How to Provision a Custom Server - A General Guide | GridPane](./how-to-provision-a-custom-server-a-general-guide-gridpane.md)
+- [How to Set a Custom Cache Expiry Time for a Specific Page on Your Website (Nginx) | GridPane](./how-to-set-a-custom-cache-expiry-time-for-a-specific-page-on-your-website-nginx-gridpane.md)
+- [How to Set up Custom Rate Limiting in Nginx | GridPane](./how-to-set-up-custom-rate-limiting-in-nginx-gridpane.md)
+- [iThemes Security and GridPane | GridPane](./ithemes-security-and-gridpane-gridpane.md)
+- [Nginx Helper and Custom Post Types | GridPane](./nginx-helper-and-custom-post-types-gridpane.md)
+- [Plugins and themes we DON’T recommend (and some better alternatives) | GridPane](./plugins-and-themes-we-don-t-recommend-and-some-better-alternatives-gridpane.md)
+- [Provision a Hetzner Server Using Our Custom Server Option | GridPane](./provision-a-hetzner-server-using-our-custom-server-option-gridpane.md)
+- [Provision a Katapult Server Using Our Custom Server Option | GridPane](./provision-a-katapult-server-using-our-custom-server-option-gridpane.md)
+- [Provision a Microsoft Azure Server Using Our Custom Server Option | GridPane](./provision-a-microsoft-azure-server-using-our-custom-server-option-gridpane.md)
+- [Provision an AWS EC2 Server Using Our Custom Server Option | GridPane](./provision-an-aws-ec2-server-using-our-custom-server-option-gridpane.md)
+- [Provision an AWS Lightsail Server Using Our Custom Server Option | GridPane](./provision-an-aws-lightsail-server-using-our-custom-server-option-gridpane.md)
+- [Provision an OVH Server Using Our Custom Server Option | GridPane](./provision-an-ovh-server-using-our-custom-server-option-gridpane.md)
+- [Set Custom Expires by Type on OpenLiteSpeed (OLS) | GridPane](./set-custom-expires-by-type-on-openlitespeed-ols-gridpane.md)
+- [Setting up a Custom SSL | GridPane](./setting-up-a-custom-ssl-gridpane.md)
+- [Swift Performance, Nginx and Custom Headers | GridPane](./swift-performance-nginx-and-custom-headers-gridpane.md)
+- [Troubleshooting: Custom Server Won’t Provision and is Stuck at 10% | GridPane](./troubleshooting-custom-server-won-t-provision-and-is-stuck-at-10-gridpane.md)
+- [Using PHP Headers to Create Custom Cache Exclusions | GridPane](./using-php-headers-to-create-custom-cache-exclusions-gridpane.md)
